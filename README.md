@@ -6,6 +6,13 @@ These notes are the result of **systematic study, cross-referencing, and deep ex
 
 ---
 
+## 📸 Preview of Notes
+
+![Sample 1](link_to_image_1.png)  
+![Sample 2](link_to_image_2.png)
+
+---
+
 ## 📘 Scope of the Notes
 
 This repository covers the full spectrum of fundamental Operating System concepts:
@@ -22,7 +29,12 @@ Each section is developed with **detailed explanations, diagrams, and problem-so
 
 ---
 
-## Conceptual Coverage (Depth Overview)
+## 🧠 Conceptual Coverage
+
+<details>
+<summary><b>Click to explore full depth</b></summary>
+
+---
 
 ### 1. Introduction & Background
 
@@ -39,13 +51,24 @@ Each section is developed with **detailed explanations, diagrams, and problem-so
 ### 2. Process Management
 
 - Process abstraction in depth  
+
+- Process from a developer’s perspective:
+  - A process modeled as an **Abstract Data Type (ADT)**  
+  - Structured as:
+    - **Definition**  
+    - **Representation / Implementation**  
+    - **Operations / Methods**  
+    - **Attributes / Properties**  
+
 - Process states and transitions (with detailed diagrams)  
 - State transition and queueing models  
 - Process Control Block (PCB) structure and role  
+
 - Schedulers:
   - Long-term (job scheduler)  
   - Short-term (CPU scheduler)  
   - Medium-term (swapping)    
+
 - Dispatcher and context switching  
 
 ---
@@ -53,14 +76,15 @@ Each section is developed with **detailed explanations, diagrams, and problem-so
 ### 3. CPU Scheduling
 
 - Scheduling objectives and performance metrics  
+
 - Algorithms implemented and analyzed:
 
   - FCFS  
   - SJF (Preemptive & Non-preemptive)  
   - SRTF (Shortest Remaining Time First)  
-  - prediction techniques for Burst Time (static vs Dynamic)
-  - HRRN (Highest Response Ratio Next)
-  - LRTF (Longest Remaining Time First)
+  - Burst time prediction (static vs dynamic)  
+  - HRRN (Highest Response Ratio Next)  
+  - LRTF (Longest Remaining Time First)  
   - Priority Scheduling  
   - Round Robin  
   - Multilevel Queue Scheduling  
@@ -114,8 +138,8 @@ A deeply explored section covering both **theory and mechanisms**:
 
 - Coffman Conditions (all 4 necessary conditions)  
 - Resource Allocation Graph (RAG)  
-- Deadlock handling strategies:
 
+- Deadlock handling strategies:
   - Prevention  
   - Avoidance  
   - Detection  
@@ -130,6 +154,7 @@ One of the most detailed sections:
 
 - CPU–Memory interaction  
 - Linear memory model and byte-addressability  
+
 - Address binding:
   - Compile-time  
   - Load-time  
@@ -186,39 +211,37 @@ One of the most detailed sections:
 
 ---
 
-## 📂 Access to Notes
+</details>
 
-All chapters are available as scanned PDFs:
-
-- [Introduction & Background](https://drive.google.com/file/d/1vat5ZCSkFStOPTCmRVmgBYPoIDQEji3y/view?usp=sharing)  
-- [Process Management](https://drive.google.com/file/d/1SFQJXRQHW8y3lg5t9Ol_7GbkFGe_mPE2/view?usp=sharing)  
-- [CPU Scheduling](https://drive.google.com/file/d/1X4UTFSjoGcDyTKbwXPCMDVdmyXMWjvs2/view?usp=sharing)  
-- [Process Synchronization](https://drive.google.com/file/d/13Ey1ZN9RDb8TlUxQEMmD6oHm62Z7WgRZ/view?usp=sharing)  
-- [Deadlock](https://drive.google.com/file/d/103FiO_v7nVY0MFG5fgK7wQpsEQLcGKj-/view?usp=sharing)  
-- [Memory Management](https://drive.google.com/file/d/1PUaVj4aranNXbzCEeg2Zb79qGCuEQTNm/view?usp=sharing)  
-- [File Management](https://drive.google.com/file/d/1LzSpb53Sqz13tXDkk2mKzIX4jF2OiMrJ/view?usp=sharing)  
-- [Complete Notes](https://drive.google.com/file/d/1HHS-uK46RtWdXde-Y2vJ29iYz8UwuW2z/view?usp=sharing)
 ---
 
-## Nature of the Notes
+## 📂 Access the Notes
+
+> 📌 **Tip:** Open in full screen for best readability
+
+- 🔹 [Introduction & Background](https://drive.google.com/file/d/1vat5ZCSkFStOPTCmRVmgBYPoIDQEji3y/view?usp=sharing)  
+- 🔹 [Process Management](https://drive.google.com/file/d/1SFQJXRQHW8y3lg5t9Ol_7GbkFGe_mPE2/view?usp=sharing)  
+- 🔹 [CPU Scheduling](https://drive.google.com/file/d/1X4UTFSjoGcDyTKbwXPCMDVdmyXMWjvs2/view?usp=sharing)  
+- 🔹 [Process Synchronization](https://drive.google.com/file/d/13Ey1ZN9RDb8TlUxQEMmD6oHm62Z7WgRZ/view?usp=sharing)  
+- 🔹 [Deadlock](https://drive.google.com/file/d/103FiO_v7nVY0MFG5fgK7wQpsEQLcGKj-/view?usp=sharing)  
+- 🔹 [Memory Management](https://drive.google.com/file/d/1PUaVj4aranNXbzCEeg2Zb79qGCuEQTNm/view?usp=sharing)  
+- 🔹 [File Management](https://drive.google.com/file/d/1LzSpb53Sqz13tXDkk2mKzIX4jF2OiMrJ/view?usp=sharing)  
+- 🔹 [Complete Notes](https://drive.google.com/file/d/1HHS-uK46RtWdXde-Y2vJ29iYz8UwuW2z/view?usp=sharing)
+
+---
+
+## 🗂️ Nature of the Notes
 
 - Handwritten and diagram-heavy  
 - Focused on **understanding, not memorization**  
 - Built to explain **why things work**, not just how  
-- Suitable as both:
+- Useful as both:
   - A **learning resource**
   - A **revision/reference guide**
 
 ---
 
-## Sample Pages
-
-![Sample 1](link_to_image_1.png)  
-![Sample 2](link_to_image_2.png)
-
----
-
-## Acknowledgement ❣️  
+## 💬 Acknowledgement  
 
 I would like to express my sincere gratitude to my teacher, **Kshitij Sharma**.
 
@@ -227,7 +250,7 @@ His teaching played a central role in shaping my clarity on this subject.
 
 ---
 
-# Contact 💀 
+## 📬 Contact
 
 [<img src="https://img.icons8.com/3d-fluency/30/secured-letter.png" alt="Email" style="vertical-align: middle;"/> official.ahmadrandhawa@gmail.com](mailto:official.ahmadrandhawa@gmail.com)   
 [<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="26" alt="LinkedIn"/>  LinkedIn Profile](https://www.linkedin.com/in/ahmad-hussain-randhawa/)  
