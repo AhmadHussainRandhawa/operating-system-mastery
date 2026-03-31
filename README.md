@@ -190,14 +190,14 @@ One of the most detailed sections:
 
 All chapters are available as scanned PDFs:
 
-- [Introduction & Background](GOOGLE_DRIVE_LINK_1)  
-- [Process Management](GOOGLE_DRIVE_LINK_2)  
-- [CPU Scheduling](GOOGLE_DRIVE_LINK_3)  
-- [Process Synchronization](GOOGLE_DRIVE_LINK_4)  
-- [Deadlock](GOOGLE_DRIVE_LINK_5)  
-- [Memory Management](GOOGLE_DRIVE_LINK_6)  
-- [File Management](GOOGLE_DRIVE_LINK_7)  
-
+- [Introduction & Background](https://drive.google.com/file/d/1vat5ZCSkFStOPTCmRVmgBYPoIDQEji3y/view?usp=sharing)  
+- [Process Management](https://drive.google.com/file/d/1SFQJXRQHW8y3lg5t9Ol_7GbkFGe_mPE2/view?usp=sharing)  
+- [CPU Scheduling](https://drive.google.com/file/d/1X4UTFSjoGcDyTKbwXPCMDVdmyXMWjvs2/view?usp=sharing)  
+- [Process Synchronization](https://drive.google.com/file/d/13Ey1ZN9RDb8TlUxQEMmD6oHm62Z7WgRZ/view?usp=sharing)  
+- [Deadlock](https://drive.google.com/file/d/103FiO_v7nVY0MFG5fgK7wQpsEQLcGKj-/view?usp=sharing)  
+- [Memory Management](https://drive.google.com/file/d/1PUaVj4aranNXbzCEeg2Zb79qGCuEQTNm/view?usp=sharing)  
+- [File Management](https://drive.google.com/file/d/1LzSpb53Sqz13tXDkk2mKzIX4jF2OiMrJ/view?usp=sharing)  
+- [Complete Notes](https://drive.google.com/file/d/1HHS-uK46RtWdXde-Y2vJ29iYz8UwuW2z/view?usp=sharing)
 ---
 
 ## Nature of the Notes
