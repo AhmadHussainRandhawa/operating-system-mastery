@@ -185,3 +185,42 @@ One of the most detailed sections:
 - ext4 file system  
 
 ---
+
+## 📂 Access to Notes
+
+All chapters are available as scanned PDFs:
+
+- [Introduction & Background](GOOGLE_DRIVE_LINK_1)  
+- [Process Management](GOOGLE_DRIVE_LINK_2)  
+- [CPU Scheduling](GOOGLE_DRIVE_LINK_3)  
+- [Process Synchronization](GOOGLE_DRIVE_LINK_4)  
+- [Deadlock](GOOGLE_DRIVE_LINK_5)  
+- [Memory Management](GOOGLE_DRIVE_LINK_6)  
+- [File Management](GOOGLE_DRIVE_LINK_7)  
+
+---
+
+## 📊 Nature of the Notes
+
+- Handwritten and diagram-heavy  
+- Focused on **understanding, not memorization**  
+- Built to explain **why things work**, not just how  
+- Suitable as both:
+  - A **learning resource**
+  - A **revision/reference guide**
+
+---
+
+## 🖼️ Sample Pages
+
+![Sample 1](link_to_image_1.png)  
+![Sample 2](link_to_image_2.png)
+
+---
+
+## 🙏 Acknowledgement
+
+I would like to express my sincere gratitude to my teacher, **Kshitij Sharma**.
+
+If I have to credit one person for my understanding of Operating Systems, it would be him.  
+His teaching played a central role in shaping my clarity on this subject.
