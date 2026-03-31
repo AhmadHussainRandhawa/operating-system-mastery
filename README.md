@@ -200,7 +200,7 @@ All chapters are available as scanned PDFs:
 
 ---
 
-## 📊 Nature of the Notes
+## Nature of the Notes
 
 - Handwritten and diagram-heavy  
 - Focused on **understanding, not memorization**  
@@ -211,16 +211,28 @@ All chapters are available as scanned PDFs:
 
 ---
 
-## 🖼️ Sample Pages
+## Sample Pages
 
 ![Sample 1](link_to_image_1.png)  
 ![Sample 2](link_to_image_2.png)
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement ❣️  
 
 I would like to express my sincere gratitude to my teacher, **Kshitij Sharma**.
 
 If I have to credit one person for my understanding of Operating Systems, it would be him.  
 His teaching played a central role in shaping my clarity on this subject.
+
+---
+
+# Contact 💀 
+
+[<img src="https://img.icons8.com/3d-fluency/30/secured-letter.png" alt="Email" style="vertical-align: middle;"/> official.ahmadrandhawa@gmail.com](mailto:official.ahmadrandhawa@gmail.com)   
+[<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="26" alt="LinkedIn"/>  LinkedIn Profile](https://www.linkedin.com/in/ahmad-hussain-randhawa/)  
+[<img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" width="26" alt="GitHub"/>  GitHub Profile](https://github.com/AhmadHussainRandhawa)   
+
+---
+
+> *"If you have any questions or want to collaborate on something, feel free to email me (without any hesitation)... I might be a little busy sometimes, but I’ll definitely reply."*
