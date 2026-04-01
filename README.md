@@ -6,12 +6,55 @@ These notes are the result of **systematic study, cross-referencing, and deep ex
 
 ---
 
-## 📸 Preview of Notes
+## 📸 Notes Preview
 
-![Sample 1](link_to_image_1.png)  
-![Sample 2](link_to_image_2.png)
+<details>
+<summary><b style="color:#1E90FF;">Click to see more</b></summary>  
 
 ---
+
+<p>Take a quick look at selected pages from the handwritten notes — just a glimpse of the full depth and detail.<br/>
+Scroll down for access to the complete PDFs.</p>
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+
+<!-- Chapter 1: Introduction & Background -->
+<img src="doc/screenshots/01_intro_and_background_6.jpg" width="240" alt="Introduction & Background - Types of OS" />
+<img src="doc/screenshots/01_intro_and_background_8.jpg" width="240" alt="Introduction & Background - Architectural requirements for implementing a Multiprogrammed OS" />
+<img src="doc/screenshots/01_intro_and_background_13.jpg" width="240" alt="Introduction & Background - Mode Shifting" />
+
+<!-- Chapter 2: Process Management -->
+<img src="doc/screenshots/02_process_management_14.jpg" width="240" alt="Process Management - Process" />
+<img src="doc/screenshots/02_process_management_15.jpg" width="240" alt="Process Management - Process Structure" />
+<img src="doc/screenshots/02_process_management_19.jpg" width="240" alt="Process Management - Process States" />
+
+<!-- Chapter 3: CPU Scheduling -->
+<img src="doc/screenshots/03_cpu_scheduling_4.jpg" width="240" alt="CPU Scheduling - Diagram" />
+<img src="doc/screenshots/03_cpu_scheduling_14.jpg" width="240" alt="CPU Scheduling - FCFS" />
+
+<!-- Chapter 4: Process Synchronization -->
+<img src="doc/screenshots/04_process_synchronization_82.jpg" width="240" alt="Process Synchronization - Checking Perfect Sync" />
+<img src="doc/screenshots/04_process_synchronization_94.jpg" width="240" alt="Process Synchronization - NASA Mars Path Finder Project's Problem" />
+<img src="doc/screenshots/04_process_synchronization_118.jpg" width="240" alt="Process Synchronization - Dining Philosphers" />
+<img src="doc/screenshots/04_process_synchronization_122.jpg" width="240" alt="Process Synchronization - Concurrency Models" />
+
+<!-- Chapter 6: Memory Management -->
+<img src="doc/screenshots/06_memory_management_171.jpg" width="240" alt="Memory Management - Loading vs Linking" />
+<img src="doc/screenshots/06_memory_management_172.jpg" width="240" alt="Memory Management - Unresolved References" />
+<img src="doc/screenshots/06_memory_management_177.jpg" width="240" alt="Memory Management - Address Binding" />
+<img src="doc/screenshots/06_memory_management_210.jpg" width="240" alt="Memory Management - Hashed Page Table" />
+
+<!-- Chapter 7: File Management -->
+<img src="doc/screenshots/07_file_management_260.jpg" width="240" alt="File Management - Disk Physical Structure" />
+<img src="doc/screenshots/07_file_management_272.jpg" width="240" alt="File Management - Directory Structure" />
+<img src="doc/screenshots/07_file_management_294.jpg" width="240" alt="File Management - Case Study: Linux Inode Structure" />
+
+</div>
+
+---
+
+</details>
+
 
 ## 📘 Scope of the Notes
 
@@ -32,7 +75,7 @@ Each section is developed with **detailed explanations, diagrams, and problem-so
 ## 🧠 Conceptual Coverage
 
 <details>
-<summary><b>Click to explore full depth</b></summary>
+<summary><b style="color:#1E90FF;">Click to explore full depth</b></summary>
 
 ---
 
@@ -213,7 +256,6 @@ One of the most detailed sections:
 
 </details>
 
----
 
 ## 📂 Access the Notes
 
